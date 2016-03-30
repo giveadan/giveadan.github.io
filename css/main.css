@@ -1,0 +1,20 @@
+body {
+	background: #cfcfcf;
+}
+.flexbox-container {
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-ms-flex-align: center;
+	-webkit-align-items: center;
+	-webkit-box-align: center;
+	align-items: center;
+	justify-content: center;
+	height: 80vh;
+}
+
+@media screen and (max-width: 375px) {
+	h1 {
+		font-size: 1.5em;
+	}
+}
