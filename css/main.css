@@ -10,7 +10,7 @@ body {
 	-webkit-box-align: center;
 	align-items: center;
 	justify-content: center;
-	-webkit-justify-content
+	-webkit-justify-content; center;
 	height: 80vh;
 }
 
